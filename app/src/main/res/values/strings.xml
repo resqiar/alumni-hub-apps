@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alumni Hub</string>
+    <string name="Text_title">Alumni Hub</string>
+    <string name="btn_start_text">Get started!</string>
+    <string name="text_subtitle">Spread Memory and Love!</string>
+    <string name="nama_anggota">Nama Alumni Goes Here</string>
+    <string name="submit_by"><![CDATA[Created & Submitted by]]></string>
+    <string name="title">Alumni Hub</string>
+    <string name="about">About</string>
+    <string name="email">rezqiageng@gmail.com</string>
+    <string name="btn_dial">Whatsapp me!</string>
+    <string name="my_name">Resqi Ageng Rahmatullah</string>
+</resources>
